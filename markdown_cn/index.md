@@ -1,5 +1,7 @@
 # GNU C 语言手册
 
+下一篇: [第一个例子](The-First-Example.md)  
+
 ---
 
 # GNU C 手册
